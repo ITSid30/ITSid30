@@ -1,4 +1,4 @@
-### <# 💫 About Siddhesh Bajad:
+<# 💫 About Siddhesh Bajad:
 🔭 I’m currently working on Personal Website<br><br>🌱 I’m currently learning Web Developement, React, Ethereum Blockchain<br><br>👯 I’m looking to collaborate on Crowdfunding Application<br><br>👨‍💻 All of my projects are available at https://itsid30.github.io/SiddheshBajad.io/<br><br>📫 How to reach me siddhesh.bajad@gmail.com<br><br>⚡ Fun fact Passionate Unfit Trekker, Badminton Player
 
 
@@ -24,7 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ITSid30&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!--
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 ### <h1 align="center">Hi there 👋, I'm Siddhesh Bajad</h1>
 <h3 align="center">A passionate learner, always looking for something interesting. Currently learning Web Development and Blockchain.</h3>
 
