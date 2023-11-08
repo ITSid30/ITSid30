@@ -1,4 +1,4 @@
-<# 💫 About Siddhesh Bajad:
+### 💫 Hello I am Siddhesh Bajad:
 🔭 I’m currently working on Personal Website<br><br>🌱 I’m currently learning Web Developement, React, Ethereum Blockchain<br><br>👯 I’m looking to collaborate on Crowdfunding Application<br><br>👨‍💻 All of my projects are available at https://itsid30.github.io/SiddheshBajad.io/<br><br>📫 How to reach me siddhesh.bajad@gmail.com<br><br>⚡ Fun fact Passionate Unfit Trekker, Badminton Player
 
 
