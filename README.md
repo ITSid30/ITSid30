@@ -1,7 +1,4 @@
-<!-- ![Siddhesh Banner](https://www.canva.com/design/DAFxgRXiLL8/zyMwUy5XSTv8j-jCoKjZeA/view?utm_content=DAFxgRXiLL8&utm_campaign=designshare&utm_medium=link&utm_source=editor)  -->
-<h1 align="center">
- <img src="[Sid banner](https://drive.google.com/file/d/1_5dDQOCFJabJkV3b9q843HTYo5-JyS1d/view)" />
-</h1>
+
 ### 💫 About Me 😎:
 🔭 I’m currently working on Personal Website<br><br>🌱 I’m currently learning Web Developement, React, Ethereum Blockchain<br><br>👯 Enjoy others company🌟.<br><br>👨‍💻 All of my projects are available at https://itsid30.github.io/SiddheshBajad.io/<br><br>🧑‍💻 Talking about New Techs.<br><br>⚡ Fun fact Passionate Unfit Trekker, Badminton Player
 
