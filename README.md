@@ -25,6 +25,8 @@
 
 ### [![](https://visitcount.itsvg.in/api?id=ITSid30&icon=0&color=9)](https://visitcount.itsvg.in)
 
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 ### <h1 align="center">Hi there 👋, I'm Siddhesh Bajad</h1>
 <h3 align="center">A passionate learner, always looking for something interesting. Currently learning Web Development and Blockchain.</h3>
