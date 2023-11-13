@@ -23,8 +23,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
 -->
 
----
-[![](https://visitcount.itsvg.in/api?id=ITSid30&icon=0&color=9)](https://visitcount.itsvg.in)
+### [![](https://visitcount.itsvg.in/api?id=ITSid30&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 ### <h1 align="center">Hi there 👋, I'm Siddhesh Bajad</h1>
