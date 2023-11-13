@@ -23,9 +23,10 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/{ITSid30}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{ITSid30}/count.svg)
 
-### [![](https://visitcount.itsvg.in/api?id=ITSid30&icon=0&color=9)](https://visitcount.itsvg.in)
+### [![](https://visitcount.itsvg.in/api?id=ITSid30&icon=0&color=9)](https://visitcount.itsvg.in)  -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsid30&label=Profile%20views&color=0e75b6&style=flat" alt="itsid30" /> </p>
 
 ---
 
