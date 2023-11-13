@@ -23,6 +23,8 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
 -->
 
+![Visitor Count](https://profile-counter.glitch.me/{ITSid30}/count.svg)
+
 ### [![](https://visitcount.itsvg.in/api?id=ITSid30&icon=0&color=9)](https://visitcount.itsvg.in)
 
 ---
